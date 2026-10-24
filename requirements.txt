@@ -1,0 +1,10 @@
+# Dependencies imported by cardPredictor.py.
+# Versions were not recorded in the original project, so these are
+# intentionally unpinned. Pin them once a known-good environment is confirmed.
+torch
+torchvision
+timm
+matplotlib
+pandas
+numpy
+Pillow

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Note: resources/ data and model files (*.h5, cards.csv, card images)
+# are part of this project's structure and are intentionally NOT ignored.
